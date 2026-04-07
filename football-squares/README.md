@@ -1,24 +1,24 @@
-# 🏈 Football Squares Ticket Generator
+# Football Squares Ticket Generator
 
 Generate pre-assigned football squares tickets for groups. Perfect for selling or distributing squares to friends!
 
-## 🎯 What It Does
+## What It Does
 
 This tool generates a master football squares grid and divides it into **X groups** with randomly assigned squares. Each group gets a printable ticket showing:
 - Their assigned squares on the full grid
 - A list of their square coordinates
 - Team names and numbers (0-9) for both teams
 
-## ✨ Features
+## Features
 
-- ✅ **Random Assignment** - Squares are randomly distributed to groups
-- ✅ **Master Grid** - See all groups on one grid with color coding
-- ✅ **Printable Tickets** - Each group gets a professional ticket
-- ✅ **CSV Export** - Download master grid and individual group CSVs
-- ✅ **Fair Distribution** - Automatically divides 100 squares evenly
-- ✅ **Color Coded** - Each group has a unique color
+- **Random Assignment** - Squares are randomly distributed to groups
+- **Master Grid** - See all groups on one grid with color coding
+- **Printable Tickets** - Each group gets a professional ticket
+- **CSV Export** - Download master grid and individual group CSVs
+- **Fair Distribution** - Automatically divides 100 squares evenly
+- **Color Coded** - Each group has a unique color
 
-## 🚀 How to Use
+## How to Use
 
 ### 1. Open the Generator
 ```bash
@@ -54,7 +54,7 @@ Click **"Generate Grids"** and the tool will:
 - Click **"👁️ View Master Grid"**
 - See all groups color-coded on one grid
 
-## 📊 Example Use Cases
+## Example Use Cases
 
 ### Example 1: Split with a Friend (2 Groups)
 - You and a friend each get 50 squares
@@ -71,7 +71,7 @@ Click **"Generate Grids"** and the tool will:
 - Generate 20 groups
 - Each ticket buyer gets their squares
 
-## 📋 Output Format
+## Output Format
 
 ### Master CSV
 ```csv
@@ -108,7 +108,7 @@ Chiefs,49ers
 ...
 ```
 
-## 🎨 Printable Tickets
+## Printable Tickets
 
 Each ticket includes:
 - **Group Number** with unique color
@@ -121,7 +121,7 @@ Perfect for:
 - Emailing as PDF
 - Sharing on social media
 
-## 🔢 How It Works
+## How It Works
 
 1. **Initialize**: Creates a 10×10 grid (100 squares)
 2. **Random Numbers**: Assigns 0-9 randomly to each team
@@ -131,41 +131,7 @@ Perfect for:
    - Example: 100 squares ÷ 3 groups = 33, 33, 34
 5. **Generate**: Creates master grid and individual tickets
 
-## 📱 Tips
-
-### For Best Results:
-- Use **Chrome or Safari** for printing
-- Set printer to **"Fit to Page"** for best layout
-- Use **landscape orientation** for wider grids
-- **Save as PDF** to share digitally
-
-### Distribution Ideas:
-- Print tickets and hand them out
-- Save as PDF and email
-- Screenshot tickets and text them
-- Post master grid in a group chat
-
-### Tracking Winners:
-- Use the master grid to see all groups
-- When scores come in, check the last digit of each team
-- Find the intersection on the grid
-- The group number at that square wins!
-
-## 🎯 Example Workflow
-
-**Scenario**: Super Bowl party with 4 friends
-
-1. Open generator
-2. Enter "Chiefs" and "49ers"
-3. Set groups to 5 (you + 4 friends)
-4. Click Generate
-5. Each person gets 20 squares
-6. Print all tickets (5 pages)
-7. Hand out tickets at the party
-8. Keep master grid to track winners
-9. Check winners at end of each quarter!
-
-## 🛠️ Technical Details
+## Technical Details
 
 - **Pure JavaScript** - No dependencies needed
 - **Client-Side Only** - Everything runs in your browser
@@ -173,20 +139,20 @@ Perfect for:
 - **Print Optimized** - CSS designed for clean printing
 - **Responsive** - Works on desktop and mobile
 
-## 📂 Files
+## Files
 
 - `generator.html` - Main application
 - `generator.js` - Grid generation logic
 - `README.md` - This file
 
-## 🎲 Randomization
+## Randomization
 
 - Uses Fisher-Yates shuffle algorithm
 - Cryptographically secure random (Math.random)
 - Each generation is completely unique
 - Fair distribution guaranteed
 
-## 💡 Advanced Tips
+## Advanced Tips
 
 ### Custom Colors
 Edit the `groupColors` array in `generator.js` to use your own colors:
@@ -205,15 +171,6 @@ The generator supports up to 100 groups (1 square each)!
 ### Save Your Setup
 Bookmark the page after generating to keep your grids
 
-## 🤝 Perfect For
+## Enjoy!
 
-- ✅ Super Bowl parties
-- ✅ Office pools
-- ✅ Fundraisers
-- ✅ Friend groups
-- ✅ Family gatherings
-- ✅ Any football game!
-
-## 🎉 Enjoy!
-
-Generate your tickets and have fun with your football squares! 🏈
+Generate your tickets and have fun with your football squares!

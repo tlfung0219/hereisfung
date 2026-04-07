@@ -2,8 +2,6 @@
 
 A web-based application that visualizes trip activities in a GitHub-style activity grid. Upload your trip data as CSV files or explore pre-built examples to see activity patterns over time.
 
-![Trip Activity Visualizer](https://img.shields.io/badge/Status-Complete-green) ![License](https://img.shields.io/badge/License-MIT-blue)
-
 ## Features
 
 - **GitHub-style Activity Grid**: Visualize activities across 24 hours for each day of your trip
