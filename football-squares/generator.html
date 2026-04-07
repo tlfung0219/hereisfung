@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Squares Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="no-print">🏈 Football Squares Generator</h1>
+        
+        <div id="setup-screen" class="card no-print">
+            <h2>Generate Football Squares</h2>
+            <form id="generator-form">
+                <div class="form-group">
+                    <label for="team1-name">Team 1 Name:</label>
+                    <input type="text" id="team1-name" required placeholder="New England Patriots" value="New England Patriots">
+                </div>
+                <div class="form-group">
+                    <label for="team2-name">Team 2 Name:</label>
+                    <input type="text" id="team2-name" required placeholder="Seattle Seahawks" value="Seattle Seahawks">
+                </div>
+                <div class="form-group">
+                    <label for="num-groups">Number of Groups:</label>
+                    <input type="number" id="num-groups" min="2" max="100" value="2" required>
+                    <small style="color: #666;">Each group will get 100 ÷ groups squares (e.g., 2 groups = 50 squares each)</small>
+                </div>
+                <div id="group-names-container" class="form-group" style="display: none;">
+                    <label>Group Names (Optional):</label>
+                    <div id="group-names-inputs"></div>
+                    <small style="color: #666;">Leave blank to use default names (Group 1, Group 2, etc.)</small>
+                </div>
+                <div class="form-group">
+                    <label style="display: flex; align-items: center; cursor: pointer;">
+                        <input type="checkbox" id="assign-numbers" style="width: auto; margin-right: 10px;">
+                        <span>Assign numbers now (0-9 for both teams)</span>
+                    </label>
+                    <small style="color: #666;">Check this to randomly assign numbers immediately. Leave unchecked to assign on game day.</small>
+                </div>
+                <button type="submit" class="btn btn-primary">Generate Grids</button>
+            </form>
+        </div>
+
+        <div id="results-screen" class="hidden">
+            <div class="card no-print">
+                <h2>✅ Grids Generated!</h2>
+                <div class="success-message">
+                    Successfully generated <strong id="group-count"></strong> group tickets with randomly assigned squares.
+                </div>
+                <div class="actions">
+                    <button id="download-master-csv" class="btn btn-success">📥 Download Master CSV</button>
+                    <button id="download-all-csv" class="btn btn-success">📥 Download All Group (ZIP)</button>
+                    <button id="print-all" class="btn btn-primary">🖨️ Print All Tickets</button>
+                    <button id="view-master" class="btn btn-secondary">👀 View Master Grid</button>
+                    <button id="reset" class="btn btn-secondary">🔄 Start Over</button>
+                </div>
+            </div>
+
+            <div id="tickets-container"></div>
+        </div>
+    </div>
+
+    <script src="generator.js"></script>
+</body>
+</html>
