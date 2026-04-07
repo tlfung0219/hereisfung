@@ -1,0 +1,657 @@
+[
+  {
+    "date": "2023-11-02",
+    "time": "04:30",
+    "activity": "Arrive hotel Casa Condesa Ametlan 84"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "06:00",
+    "activity": "Tacos \"El Gato Volador\""
+  },
+  {
+    "date": "2023-11-02",
+    "time": "07:00",
+    "activity": "Panadería Rosetta"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "08:30",
+    "activity": "Churrería El Moro"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "09:45",
+    "activity": "OXXO"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "10:00",
+    "activity": "La Ciudadela Artisan Market"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "11:30",
+    "activity": "Walk to Constitution Plaza"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "12:30",
+    "activity": "Cantina makeup"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "13:30",
+    "activity": "Arrive Constitution Plaza"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "14:30",
+    "activity": "Back to hotel - check-in"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "15:15",
+    "activity": "Day of the Dead parade"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "16:15",
+    "activity": "Meet up with Day of the Dead in Mixquic tour"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "19:30",
+    "activity": "Arrive in Mixquic"
+  },
+  {
+    "date": "2023-11-02",
+    "time": "23:00",
+    "activity": "Leave Mixquic"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "02:00",
+    "activity": "Arrive in Mexico City"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "11:00",
+    "activity": "Uber to Frida Kahlo Museum"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "11:15",
+    "activity": "Arrive Frida Kahlo Museum"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "13:07",
+    "activity": "Coyoacan local market"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "13:27",
+    "activity": "Quesadillas Carmelita Coyoacan"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "13:45",
+    "activity": "Carnitas El Charro"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "14:15",
+    "activity": "Fresh juice"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "14:30",
+    "activity": "Cafe El Jarocho"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "15:20",
+    "activity": "Street taco pop-up"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "15:40",
+    "activity": "Mask Museum"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "17:30",
+    "activity": "La Fiera Librería"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "18:00",
+    "activity": "Uber to Constitution Plaza"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "18:20",
+    "activity": "Arrive Constitution Plaza"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "19:00",
+    "activity": "Meet up with Lillian’s friends"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "19:55",
+    "activity": "Tacos La Chula Juárez"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "20:11",
+    "activity": "Change to Cancino Havre"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "21:38",
+    "activity": "Walk to Rayo"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "22:03",
+    "activity": "Rayo bar is full"
+  },
+  {
+    "date": "2023-11-03",
+    "time": "22:19",
+    "activity": "Gin Gin"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "00:05",
+    "activity": "Back to hotel"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "08:00",
+    "activity": "Rutas Cafe"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "08:00",
+    "activity": "Uber to meet-up point at Cafe Miga"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "08:15",
+    "activity": "Arrive Cafe Miga"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "08:25",
+    "activity": "Bus departs"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "08:46",
+    "activity": "Arrive Tlatelolco"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "09:28",
+    "activity": "Leaving Tlatelolco"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "09:45",
+    "activity": "Basilica of Our Lady of Guadalupe"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "10:45",
+    "activity": "Back with tour guide Lily"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "11:00",
+    "activity": "Leaving to Tlacaelel"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "11:45",
+    "activity": "Arrive - tequila tasting"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "13:00",
+    "activity": "Lunch at Tlacaelel"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "14:02",
+    "activity": "Leaving to Teotihuacan"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "14:12",
+    "activity": "Arrive Teotihuacan"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "16:10",
+    "activity": "Leaving Teotihuacan back to Mexico City"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "17:10",
+    "activity": "Back to Cafe Miga"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "17:35",
+    "activity": "Casa Bosques - walking around Roma"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "18:15",
+    "activity": "Utilitario Mexicano"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "18:40",
+    "activity": "Quentin"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "19:55",
+    "activity": "El Tizoncito"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "20:45",
+    "activity": "Walmart"
+  },
+  {
+    "date": "2023-11-04",
+    "time": "21:30",
+    "activity": "Back to hotel"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "10:05",
+    "activity": "Walk to Tomasa Condesa"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "10:15",
+    "activity": "Uber to Museo Nacional de Antropología"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "10:30",
+    "activity": "Arrive Anthropology Museum"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "12:10",
+    "activity": "Museo Tamayo Arte Contemporáneo"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "13:00",
+    "activity": "Museum store shopping"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "14:00",
+    "activity": "Uber to Rosetta"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "14:27",
+    "activity": "Arrive Rosetta"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "16:35",
+    "activity": "Walking around Roma"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "16:40",
+    "activity": "Le Labo"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "17:15",
+    "activity": "El Liquor Store"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "18:10",
+    "activity": "Cardinal Casa de Café"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "19:22",
+    "activity": "Taquería Orinoco (Roma Norte)"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "19:55",
+    "activity": "Licorería Limantour"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "21:55",
+    "activity": "Sit in The Handshake"
+  },
+  {
+    "date": "2023-11-05",
+    "time": "23:40",
+    "activity": "Leave bar"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "00:00",
+    "activity": "Back to hotel"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "11:00",
+    "activity": "Walking to Mendl Delicatessen"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "11:20",
+    "activity": "Sit in Mendl"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "12:30",
+    "activity": "Walmart"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "12:45",
+    "activity": "Local market juice and back to hotel"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "12:55",
+    "activity": "Uber to National Art Museum (MUNAL)"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "13:20",
+    "activity": "National Art Museum"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "15:30",
+    "activity": "Palacio de Bellas Artes"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "16:08",
+    "activity": "Stop by worst bakery"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "16:25",
+    "activity": "Mexico City Metropolitan Cathedral"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "17:00",
+    "activity": "Pastelería Ideal"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "17:10",
+    "activity": "Uber to Mi Compa Chava"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "17:35",
+    "activity": "Arrive Mi Compa Chava"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "19:05",
+    "activity": "Walking to Rayo"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "19:25",
+    "activity": "Sit in Rayo"
+  },
+  {
+    "date": "2023-11-06",
+    "time": "23:15",
+    "activity": "Back to hotel"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "04:40",
+    "activity": "Pickup from hotel for hot spring tour"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "08:00",
+    "activity": "Arrive Grutas Tolantongo"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "09:30",
+    "activity": "Leave hot spring"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "09:45",
+    "activity": "Breakfast at Restaurante Las Palomas"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "10:30",
+    "activity": "Explore cave and river"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "13:15",
+    "activity": "Leave"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "15:20",
+    "activity": "5 pesos baños break"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "17:10",
+    "activity": "Back to hotel"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "17:13",
+    "activity": "Walk to Birria El Jarocho"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "17:30",
+    "activity": "Sit at Birria El Jarocho"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "17:45",
+    "activity": "Walk to Taquería El Jarocho"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "17:50",
+    "activity": "Sit at Taquería El Jarocho"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "18:30",
+    "activity": "Walk around and shop"
+  },
+  {
+    "date": "2023-11-07",
+    "time": "19:23",
+    "activity": "Back to hotel"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "10:15",
+    "activity": "Walk to Fuego & Café"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "11:50",
+    "activity": "Uber to Mercado Sonora"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "12:10",
+    "activity": "Arrive at Mercado Sonora"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "13:00",
+    "activity": "Market street food vendor"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "13:30",
+    "activity": "Walk to find a better spot to call Uber"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "13:45",
+    "activity": "Decide to walk to Templo Mayor Museum"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "14:05",
+    "activity": "Arrive at Templo Mayor Museum"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "15:40",
+    "activity": "Leave Templo Mayor Museum"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "16:15",
+    "activity": "Uber to El Hidalguense"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "17:00",
+    "activity": "Sit at El Hidalguense"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "18:00",
+    "activity": "Casa Ananda Vintage Boutique"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "18:30",
+    "activity": "Forte"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "20:25",
+    "activity": "Matuche"
+  },
+  {
+    "date": "2023-11-08",
+    "time": "22:10",
+    "activity": "Back to hotel"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "10:00",
+    "activity": "Walk to El Pescadito Tacos"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "10:05",
+    "activity": "Sit at El Pescadito Tacos"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "10:40",
+    "activity": "Tomasa Condesa"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "11:15",
+    "activity": "Walking around Condesa"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "12:20",
+    "activity": "Tugurio Boutique"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "12:45",
+    "activity": "Back to hotel to put away items"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "14:00",
+    "activity": "La Polar"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "14:50",
+    "activity": "Museo Soumaya"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "17:30",
+    "activity": "Costco"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "18:50",
+    "activity": "Esquina Común"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "21:15",
+    "activity": "Elotes y Esquites Los Juniors"
+  },
+  {
+    "date": "2023-11-09",
+    "time": "21:35",
+    "activity": "Back to hotel"
+  },
+  {
+    "date": "2023-11-10",
+    "time": "10:25",
+    "activity": "Checkout hotel"
+  },
+  {
+    "date": "2023-11-10",
+    "time": "10:55",
+    "activity": "Cumbe"
+  },
+  {
+    "date": "2023-11-10",
+    "time": "11:55",
+    "activity": "Local farmer’s market"
+  },
+  {
+    "date": "2023-11-10",
+    "time": "13:15",
+    "activity": "Walk back to hotel"
+  },
+  {
+    "date": "2023-11-10",
+    "time": "13:57",
+    "activity": "Head to airport"
+  }
+]

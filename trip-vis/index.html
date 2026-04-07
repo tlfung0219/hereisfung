@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trip Activity Visualizer - GitHub Style</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🚌 Trip Activity Visualizer</h1>
+        
+        <div class="file-upload">
+            <label for="csvFile" class="file-input-wrapper">
+                <input type="file" id="csvFile" accept=".csv" />
+                <div class="upload-text">
+                    <span class="upload-icon">📁</span>
+                    <span id="uploadText">Choose CSV file...</span>
+                </div>
+            </label>
+        </div>
+
+        <div class="examples">
+            <h2>Or try an example:</h2>
+            <select id="exampleSelect">
+                <option value="">Select an example...</option>
+                <option value="disneyland_trip">Disneyland Trip</option>
+                <option value="hawaii_trip">Hawaii Trip</option>
+                <option value="italy_trip">Italy Trip</option>
+                <option value="mexico_trip">Mexico Trip</option>
+                <option value="redding_trip">Redding Trip</option>
+                <option value="utah_trip">Utah Trip</option>
+            </select>
+            <button id="loadExample">Load Example</button>
+            <button id="downloadExample">Download Example</button>
+        </div>
+
+        <div id="tripInfo" class="trip-info" style="display: none;"></div>
+
+        <div id="visualizationContainer" class="visualization-container" style="display: none;">
+            <div class="legend">
+                <span>Less</span>
+                <div class="legend-item">
+                    <div class="legend-square level-0"></div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-square level-1"></div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-square level-2"></div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-square level-3"></div>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-square level-4"></div>
+                </div>
+                <span>More</span>
+            </div>
+
+            <div class="grid-container">
+                <div class="grid-with-labels">
+                    <div class="activity-grid" id="activityGrid"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="stats" class="stats" style="display: none;"></div>
+    </div>
+
+    <div id="tooltip" class="tooltip"></div>
+
+    <script src="global_vars.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
