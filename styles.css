@@ -258,3 +258,30 @@ section:nth-of-type(5) { animation-delay: 0.36s; }
   font-weight: 500;
   color: var(--ink);
 }
+
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 22px;
+}
+
+.proj-text-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 18px;
+  border: 1px solid var(--rust);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--rust);
+  font-family: 'DM Mono', monospace;
+  font-size: 0.82rem;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.proj-text-button:hover {
+  background: var(--rust);
+  color: var(--cream);
+}
